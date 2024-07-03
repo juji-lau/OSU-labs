@@ -175,7 +175,7 @@ int main()
   // memcpy(final_message, message, char_count)
   printf("Your message is:\n");
   printf("%s\n", message);
-  // printf("Whith word count: %d", char_count);
+  // printf("Whith word count : %d", char_count);
   return 0;
 }
 // #endif
